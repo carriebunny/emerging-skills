@@ -1,5 +1,5 @@
 # IT-skills-capstone
-Data Analyst Capstone: Identifying Emerging IT Skills
+## Data Analyst Capstone: Identifying Emerging IT Skills
 I collected data from various sources such as job postings, training portals, and surveys using the Jobs API and web scraping. 
 I then processed the data by removing duplicate values and imputing missing values, normalizing data, determining correlations, and removing outliers.
 I queried the data with SQL to visualize relationships between features using charts and plots.
